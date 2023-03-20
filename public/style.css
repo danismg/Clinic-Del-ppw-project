@@ -1,0 +1,10 @@
+.pizza-list{
+    width:30%;
+    border:1px solid;
+    padding:5px;
+    border-radius:5px;
+    margin: 5px;
+    text-align: center;
+    float:left;
+    height:calc(100vh / 1.9);
+}
